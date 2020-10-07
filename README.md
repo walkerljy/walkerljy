@@ -1,14 +1,18 @@
-# Hi there!
+# 😉 Hi there!
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=walkerljy&show_icons=true)](https://walkerljy.gitee.io) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walkerljy)](https://walkerljy.gitee.io)
+![My github stats](https://github-readme-stats.vercel.app/api?username=walkerljy&show_icons=true)
 
-Hello there! This is my github account.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walkerljy)
 
-My name's Michael Liu, I am a Chinese middle school student. You can also call me 刘嘉远 as my Chinese name.
+Hello there! This is [my github account.](http://github.com/walkerljy "my github account.")
+
+My name's Michael Liu, I am a Chinese middle school student.
+
+You can also call me 刘嘉远 as my Chinese name.
 
 My main hobbies are reading and programming.
 
-As you can see, I am now building my personal website.
+As you can see, I am now building [my personal website.](https://walkerljy.gitee.io "my personal website.")
 
 Thank you for your visiting!
 
