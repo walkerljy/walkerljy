@@ -5,6 +5,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walkerljy)](https://walkerljy.gitee.io "My Most Used Languages")
 [ ](https://walkerljy.gitee.io)
 
+------------
+
 Hello there! This is [my github account.](http://github.com/walkerljy "My Github Account")
 
 My name's Michael Liu, I am a Chinese middle school student.
@@ -17,6 +19,6 @@ As you can see, I am now building [my personal website.](https://walkerljy.gitee
 
 Thank you for your visiting!
 
-Michael Liu
+<p align="right">Michael Liu</p>
 
-2020.7.5, Shanghai, China.
+<p align="right">2020.7.5, Shanghai, China.</p>
